@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, and experience in the field of cybersecurity. Built to reflect my work!
 
-![image](https://github.com/user-attachments/assets/c0988c51-6873-4279-bd7c-234e13de5449)
-
+![image](https://github.com/user-attachments/assets/80c4871b-3e4b-41af-9040-df2bf95d28d9)
 
 ## Features
 
