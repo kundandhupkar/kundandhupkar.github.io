@@ -78,7 +78,7 @@ body.dark .about .about-content .timeline{
     background-color: #222222;
 }
 body.dark .aside .nav li a,
-body.dark .blog .blog-item-inner .blog-info .blog-title,
+body.dark .blog .blog-item-inner .blog-info ,
 body.dark .contact .contact-info-item h4,
 body.dark .portfolio .portfolio-item .portfolio-item-inner h4,
 body.dark .service .service-item .service-item-inner h4,
