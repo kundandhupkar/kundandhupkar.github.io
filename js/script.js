@@ -11,7 +11,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ['Cybersecurity student with hands-on experience in web application security and SOC fundamentals.', 'Focused on learning and applying application security concepts through real-world labs and projects.', 'Interested in vulnerability research and gradually exploring bug bounty methodologies.'],
+    strings: ['Cybersecurity student with hands-on experience in web application security and SOC fundamentals.', 'Focused on learning and applying application security concepts through real-world labs and projects.', 'Interested in vulnerability research and gradually exploring bug bounty methodologies.', 'Learning to identify, analyze, and mitigate application-level security risks.', 'Passionate about web security and actively building skills through structured labs and writeups.'],
     loop: true
 });
 
